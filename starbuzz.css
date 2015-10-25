@@ -92,3 +92,19 @@ a:visited {
 #coupon a:visited {
   border:           none;
 }
+
+nav ul {
+    text-align: center;
+    /* weitere Angaben */
+}
+ 
+nav li {
+    display: inline-block;
+    /* weitere Angaben */
+}
+ 
+nav a, nav span {
+    display: block;
+    width: 8em;
+    /* weitere Angaben */
+}
